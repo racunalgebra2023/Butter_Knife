@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Butter Knife</string>
+    <string name="success_message">Successfuly logged in</string>
+    <string name="error_message">Something is missing...</string>
+</resources>
